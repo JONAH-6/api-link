@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 0,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Mckenzie925",
+    "taskLink": "https://instagram.com/minim",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Sat Sep 20 2025 22:31:30 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 1,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Webster666",
+    "taskLink": "https://facebook.com/magna",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Wed Oct 29 2025 04:03:24 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 2,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Aida824",
+    "taskLink": "https://facebook.com/est",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Mon Aug 11 2025 17:16:45 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 3,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Solis91",
+    "taskLink": "https://tiktok.com/aliquip",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Fri Dec 12 2025 03:02:41 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 4,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Marcy89",
+    "taskLink": "https://twitter.com/Lorem",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Sat Jun 07 2025 22:25:11 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 5,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Olga40",
+    "taskLink": "https://facebook.com/occaecat",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Thu Jun 12 2025 19:52:52 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 6,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Fowler117",
+    "taskLink": "https://instagram.com/aliquip",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Tue Jan 28 2025 09:22:26 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 7,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Walker530",
+    "taskLink": "https://instagram.com/do",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Sun Mar 02 2025 04:32:06 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 8,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Battle52",
+    "taskLink": "https://tiktok.com/do",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Thu Mar 27 2025 22:35:11 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 9,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Emma527",
+    "taskLink": "https://instagram.com/adipisicing",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Fri Apr 18 2025 18:42:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 10,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Abby356",
+    "taskLink": "https://tiktok.com/deserunt",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Sun Sep 14 2025 03:54:42 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 11,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Melissa201",
+    "taskLink": "https://twitter.com/occaecat",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Fri Aug 15 2025 14:28:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 12,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Cassandra104",
+    "taskLink": "https://twitter.com/dolore",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Sat May 03 2025 04:30:27 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 13,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Faulkner406",
+    "taskLink": "https://facebook.com/commodo",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Mon Oct 27 2025 15:20:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 14,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Ross386",
+    "taskLink": "https://tiktok.com/adipisicing",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Tue Feb 11 2025 11:59:13 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 15,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Fry333",
+    "taskLink": "https://tiktok.com/fugiat",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Fri Apr 11 2025 05:33:26 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 16,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Stacie498",
+    "taskLink": "https://facebook.com/consectetur",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Wed Jul 23 2025 13:56:09 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 17,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Underwood449",
+    "taskLink": "https://tiktok.com/ex",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Tue Sep 16 2025 17:28:28 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 18,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Walter344",
+    "taskLink": "https://twitter.com/ea",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Fri Dec 12 2025 07:35:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 19,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Clara923",
+    "taskLink": "https://facebook.com/do",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Wed Jan 08 2025 18:15:09 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 20,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Key658",
+    "taskLink": "https://facebook.com/ea",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Thu Jul 17 2025 20:34:05 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 21,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Kathleen466",
+    "taskLink": "https://instagram.com/tempor",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Wed Nov 12 2025 19:30:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 22,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Wilkerson408",
+    "taskLink": "https://instagram.com/consequat",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Tue Sep 23 2025 16:09:22 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 23,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Josie405",
+    "taskLink": "https://tiktok.com/dolore",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Fri May 30 2025 17:19:25 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 24,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Baldwin44",
+    "taskLink": "https://facebook.com/deserunt",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Sun Jun 01 2025 07:56:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 25,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Scott308",
+    "taskLink": "https://twitter.com/aliqua",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Wed May 14 2025 14:32:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 26,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Black385",
+    "taskLink": "https://tiktok.com/excepteur",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Wed Mar 26 2025 02:41:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 27,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Jewell731",
+    "taskLink": "https://tiktok.com/eiusmod",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Thu Aug 21 2025 13:50:16 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 28,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Fulton402",
+    "taskLink": "https://facebook.com/duis",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Mon Apr 28 2025 18:23:37 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 29,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Evangelina875",
+    "taskLink": "https://twitter.com/do",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Mon Feb 03 2025 21:39:46 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 30,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Craft391",
+    "taskLink": "https://twitter.com/sit",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Tue May 13 2025 09:43:02 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 31,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Harrington552",
+    "taskLink": "https://instagram.com/incididunt",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Sat Dec 13 2025 10:09:13 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 32,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Stephanie330",
+    "taskLink": "https://twitter.com/elit",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Thu Mar 06 2025 08:46:55 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 33,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Armstrong479",
+    "taskLink": "https://twitter.com/minim",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Thu Mar 13 2025 10:18:32 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 34,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Tanya512",
+    "taskLink": "https://instagram.com/ipsum",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Sat Aug 30 2025 18:23:46 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 35,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Brady967",
+    "taskLink": "https://tiktok.com/ea",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Thu Jan 23 2025 05:00:20 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 36,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Marianne175",
+    "taskLink": "https://twitter.com/nostrud",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Sun Jan 12 2025 12:12:43 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 37,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Molina165",
+    "taskLink": "https://instagram.com/qui",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sun Aug 24 2025 14:49:34 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 38,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Willis966",
+    "taskLink": "https://instagram.com/in",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Sun Sep 07 2025 10:51:10 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 39,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Burris649",
+    "taskLink": "https://instagram.com/dolore",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Fri Oct 17 2025 05:27:37 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 40,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Forbes439",
+    "taskLink": "https://tiktok.com/dolor",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat Nov 01 2025 06:01:32 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 41,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Steele246",
+    "taskLink": "https://instagram.com/nisi",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Mon Sep 15 2025 14:44:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 42,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Craig80",
+    "taskLink": "https://facebook.com/nostrud",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Mon Oct 20 2025 14:56:08 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 43,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Anastasia662",
+    "taskLink": "https://tiktok.com/nostrud",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Fri Jun 06 2025 15:50:34 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 44,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Kim664",
+    "taskLink": "https://tiktok.com/veniam",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Mon Mar 17 2025 20:33:11 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 45,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Wilson608",
+    "taskLink": "https://twitter.com/culpa",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Wed Feb 26 2025 14:30:09 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 46,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Carmela24",
+    "taskLink": "https://twitter.com/nostrud",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Sun Sep 28 2025 18:32:06 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 47,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Leblanc334",
+    "taskLink": "https://facebook.com/nostrud",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Sun Sep 28 2025 23:01:21 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 48,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Whitney839",
+    "taskLink": "https://tiktok.com/fugiat",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Mon May 05 2025 09:26:59 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 49,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Schroeder618",
+    "taskLink": "https://instagram.com/sint",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Sun Oct 26 2025 00:49:30 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 50,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Mendez358",
+    "taskLink": "https://facebook.com/quis",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Fri Jun 27 2025 12:49:06 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 51,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Ward342",
+    "taskLink": "https://tiktok.com/cupidatat",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Fri May 16 2025 15:50:32 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 52,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Nina501",
+    "taskLink": "https://facebook.com/consectetur",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Mon Apr 14 2025 03:26:10 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 53,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Deidre353",
+    "taskLink": "https://twitter.com/sint",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Thu Sep 25 2025 02:13:47 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 54,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Holly558",
+    "taskLink": "https://facebook.com/excepteur",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Thu Oct 09 2025 18:32:54 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 55,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Candy665",
+    "taskLink": "https://twitter.com/adipisicing",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Mon Mar 17 2025 09:28:10 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 56,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Reeves134",
+    "taskLink": "https://facebook.com/fugiat",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Sun Feb 23 2025 15:14:59 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 57,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Holcomb226",
+    "taskLink": "https://facebook.com/minim",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Wed Oct 01 2025 21:50:10 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 58,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Benjamin791",
+    "taskLink": "https://tiktok.com/consectetur",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Thu Jul 10 2025 10:49:20 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 59,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Durham68",
+    "taskLink": "https://tiktok.com/velit",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Thu Jul 24 2025 19:45:08 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 60,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Enid466",
+    "taskLink": "https://twitter.com/cupidatat",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Wed May 07 2025 19:05:46 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 61,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Pearl791",
+    "taskLink": "https://twitter.com/nisi",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Fri May 09 2025 10:03:15 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 62,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Meagan409",
+    "taskLink": "https://instagram.com/do",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Thu Sep 04 2025 07:15:25 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 63,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Berger527",
+    "taskLink": "https://facebook.com/sit",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Sun Feb 23 2025 22:17:58 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 64,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Pope280",
+    "taskLink": "https://tiktok.com/pariatur",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Sun Sep 21 2025 00:41:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 65,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Rosales807",
+    "taskLink": "https://instagram.com/non",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Sat Sep 20 2025 11:19:47 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 66,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Vargas730",
+    "taskLink": "https://instagram.com/veniam",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Sat Oct 18 2025 14:27:27 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 67,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Salas858",
+    "taskLink": "https://twitter.com/ex",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Tue Dec 16 2025 21:54:49 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 68,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Kara748",
+    "taskLink": "https://instagram.com/occaecat",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Sun Mar 02 2025 08:40:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 69,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Grace255",
+    "taskLink": "https://twitter.com/Lorem",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Wed Dec 10 2025 09:56:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 70,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Eva32",
+    "taskLink": "https://tiktok.com/eiusmod",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Wed Oct 08 2025 13:56:16 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 71,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Carlson185",
+    "taskLink": "https://facebook.com/aliquip",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Mon Sep 22 2025 23:04:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 72,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Angeline123",
+    "taskLink": "https://tiktok.com/incididunt",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Mon Apr 07 2025 20:09:35 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 73,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Pauline365",
+    "taskLink": "https://tiktok.com/ea",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Fri Jan 17 2025 02:24:56 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 74,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Alison749",
+    "taskLink": "https://tiktok.com/amet",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Sat Mar 01 2025 00:14:59 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 75,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Moran485",
+    "taskLink": "https://twitter.com/dolor",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Sun Sep 28 2025 12:53:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 76,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Salazar250",
+    "taskLink": "https://facebook.com/sit",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Thu Sep 18 2025 08:26:38 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 77,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Lowery477",
+    "taskLink": "https://twitter.com/laborum",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Thu Oct 02 2025 00:23:53 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 78,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Reyes526",
+    "taskLink": "https://twitter.com/aliquip",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Wed Mar 26 2025 18:39:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 79,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Griffith425",
+    "taskLink": "https://twitter.com/id",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Tue Sep 23 2025 02:39:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 80,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Young635",
+    "taskLink": "https://facebook.com/laboris",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Fri Jun 27 2025 20:00:57 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 81,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Rhoda239",
+    "taskLink": "https://facebook.com/sit",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Wed Mar 05 2025 01:49:17 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 82,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Esther291",
+    "taskLink": "https://twitter.com/ad",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Sat Mar 22 2025 05:04:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 83,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Deann907",
+    "taskLink": "https://instagram.com/et",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Mon Nov 17 2025 11:19:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 84,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Ware895",
+    "taskLink": "https://tiktok.com/ex",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Mon Mar 03 2025 23:08:55 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 85,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Glover996",
+    "taskLink": "https://twitter.com/quis",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Thu Mar 20 2025 04:20:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 86,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Jeanine931",
+    "taskLink": "https://instagram.com/commodo",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Tue May 13 2025 01:39:13 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 87,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Castro14",
+    "taskLink": "https://tiktok.com/cillum",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Tue Sep 16 2025 01:50:41 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 88,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Case491",
+    "taskLink": "https://tiktok.com/velit",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Thu Oct 16 2025 00:48:46 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 89,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Navarro397",
+    "taskLink": "https://facebook.com/dolor",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Fri Feb 07 2025 01:44:03 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 90,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Jaclyn472",
+    "taskLink": "https://instagram.com/ut",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Sat Jul 05 2025 01:25:48 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 91,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Welch886",
+    "taskLink": "https://instagram.com/sit",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Wed Feb 26 2025 02:58:56 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 92,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Lillian310",
+    "taskLink": "https://instagram.com/est",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Wed Mar 19 2025 10:44:53 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 93,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Perez95",
+    "taskLink": "https://instagram.com/ad",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Mon Oct 27 2025 04:02:34 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 94,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Robertson372",
+    "taskLink": "https://instagram.com/duis",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Mon May 05 2025 02:08:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 95,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Harriet778",
+    "taskLink": "https://tiktok.com/ullamco",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Thu Mar 13 2025 08:47:05 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 96,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Clarke651",
+    "taskLink": "https://tiktok.com/Lorem",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Sat Jan 11 2025 01:25:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 97,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Tiffany814",
+    "taskLink": "https://tiktok.com/dolor",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Mon Sep 29 2025 19:32:30 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 98,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Macias431",
+    "taskLink": "https://tiktok.com/quis",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Thu Nov 13 2025 21:46:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 99,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Flora617",
+    "taskLink": "https://tiktok.com/labore",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Fri Nov 07 2025 21:13:27 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 100,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Brandy284",
+    "taskLink": "https://twitter.com/velit",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Wed Mar 26 2025 20:40:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 101,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Boone553",
+    "taskLink": "https://twitter.com/laboris",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Sat Mar 15 2025 00:05:37 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 102,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Lana234",
+    "taskLink": "https://tiktok.com/duis",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Sun May 18 2025 02:29:41 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 103,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "English72",
+    "taskLink": "https://tiktok.com/minim",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Sun Jul 27 2025 02:38:27 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 104,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Jensen793",
+    "taskLink": "https://twitter.com/quis",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Thu Dec 04 2025 07:40:35 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 105,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Weiss687",
+    "taskLink": "https://facebook.com/quis",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Tue Jun 03 2025 07:54:57 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 106,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Rita495",
+    "taskLink": "https://instagram.com/dolore",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Wed Jun 25 2025 06:59:21 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 107,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Anne312",
+    "taskLink": "https://facebook.com/velit",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Sat Jul 26 2025 19:21:51 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 108,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Jodie522",
+    "taskLink": "https://facebook.com/non",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Sun Nov 16 2025 00:39:55 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 109,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Justice889",
+    "taskLink": "https://tiktok.com/et",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Thu Oct 23 2025 00:08:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 110,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Downs785",
+    "taskLink": "https://twitter.com/pariatur",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat Jun 28 2025 21:25:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 111,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Norman185",
+    "taskLink": "https://instagram.com/laborum",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Sat Feb 08 2025 12:05:55 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 112,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Amalia337",
+    "taskLink": "https://twitter.com/aliqua",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Wed Aug 13 2025 05:24:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 113,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Patterson30",
+    "taskLink": "https://instagram.com/sit",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Thu Feb 20 2025 07:47:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 114,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Blevins826",
+    "taskLink": "https://facebook.com/anim",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Wed Nov 12 2025 05:26:32 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 115,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Paulette134",
+    "taskLink": "https://facebook.com/laboris",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Tue Jul 29 2025 23:40:34 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 116,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Rosemary518",
+    "taskLink": "https://instagram.com/sint",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Thu Jul 03 2025 09:38:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 117,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Bernadine186",
+    "taskLink": "https://tiktok.com/non",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Thu Sep 18 2025 16:11:21 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 118,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Marsha142",
+    "taskLink": "https://facebook.com/est",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat Jan 25 2025 12:15:49 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 119,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Imelda499",
+    "taskLink": "https://tiktok.com/et",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Thu Jan 30 2025 20:35:45 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 120,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Fernandez457",
+    "taskLink": "https://tiktok.com/non",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Wed Jan 29 2025 09:57:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 121,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Jan144",
+    "taskLink": "https://instagram.com/aliqua",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Wed Oct 01 2025 09:17:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 122,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Jeri787",
+    "taskLink": "https://facebook.com/fugiat",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Thu Jan 09 2025 13:00:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 123,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Irene383",
+    "taskLink": "https://facebook.com/magna",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Wed Sep 10 2025 08:55:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 124,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Dollie437",
+    "taskLink": "https://instagram.com/exercitation",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Sat Jul 12 2025 16:27:19 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 125,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Donovan610",
+    "taskLink": "https://facebook.com/reprehenderit",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Sat Apr 19 2025 06:51:24 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 126,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Kristin932",
+    "taskLink": "https://instagram.com/ad",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Tue Jul 29 2025 05:25:54 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 127,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Caroline113",
+    "taskLink": "https://twitter.com/dolore",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Sun Jun 15 2025 09:29:24 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 128,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Dee223",
+    "taskLink": "https://instagram.com/anim",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Tue Apr 01 2025 21:44:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 129,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Mia947",
+    "taskLink": "https://facebook.com/non",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Sun Jan 12 2025 13:11:35 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 130,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Maryann669",
+    "taskLink": "https://tiktok.com/ex",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Wed May 28 2025 14:43:43 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 131,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Gwen163",
+    "taskLink": "https://twitter.com/aliquip",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Wed Sep 10 2025 01:49:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 132,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Mcclure273",
+    "taskLink": "https://tiktok.com/reprehenderit",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Tue Dec 09 2025 22:47:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 133,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Jimenez11",
+    "taskLink": "https://twitter.com/pariatur",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Fri Nov 07 2025 11:42:37 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 134,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Burton24",
+    "taskLink": "https://twitter.com/ea",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Tue Nov 11 2025 21:27:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 135,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Mccullough943",
+    "taskLink": "https://tiktok.com/id",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Fri Nov 07 2025 16:21:08 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 136,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Alyssa494",
+    "taskLink": "https://facebook.com/reprehenderit",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Fri Jun 06 2025 12:49:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 137,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Figueroa60",
+    "taskLink": "https://twitter.com/in",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Wed Apr 23 2025 22:55:17 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 138,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Sarah851",
+    "taskLink": "https://tiktok.com/laborum",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Mon Jun 16 2025 02:14:02 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 139,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Henson701",
+    "taskLink": "https://facebook.com/duis",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Wed Oct 15 2025 09:14:13 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 140,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Lara337",
+    "taskLink": "https://twitter.com/culpa",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat May 10 2025 01:20:10 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 141,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Bettie62",
+    "taskLink": "https://instagram.com/laboris",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Fri Nov 14 2025 08:52:45 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 142,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Dawn987",
+    "taskLink": "https://tiktok.com/nisi",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Sun Aug 10 2025 04:21:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 143,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Cotton108",
+    "taskLink": "https://instagram.com/officia",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Thu Jun 12 2025 22:29:47 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 144,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Rogers893",
+    "taskLink": "https://twitter.com/fugiat",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Thu Jan 16 2025 05:13:10 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 145,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Jasmine351",
+    "taskLink": "https://facebook.com/deserunt",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Wed Dec 03 2025 17:11:42 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 146,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Lea213",
+    "taskLink": "https://twitter.com/duis",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Sat Jul 12 2025 21:14:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 147,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Petra191",
+    "taskLink": "https://instagram.com/excepteur",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Wed Feb 26 2025 03:36:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 148,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Kathy354",
+    "taskLink": "https://tiktok.com/labore",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Fri Sep 26 2025 21:37:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 149,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Sharlene220",
+    "taskLink": "https://tiktok.com/minim",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Mon Sep 29 2025 21:34:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 150,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Augusta617",
+    "taskLink": "https://tiktok.com/cillum",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Fri Sep 12 2025 03:13:34 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 151,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Nell246",
+    "taskLink": "https://twitter.com/minim",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Fri Jul 04 2025 14:10:31 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 152,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Bond162",
+    "taskLink": "https://instagram.com/id",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Tue Oct 28 2025 13:14:20 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 153,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Bette485",
+    "taskLink": "https://twitter.com/minim",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Sat Aug 02 2025 03:52:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 154,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Hendricks710",
+    "taskLink": "https://facebook.com/dolor",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Mon Mar 03 2025 02:51:30 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 155,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Reba622",
+    "taskLink": "https://twitter.com/ullamco",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Thu Jul 03 2025 20:36:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 156,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Mathews418",
+    "taskLink": "https://instagram.com/enim",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Mon Oct 13 2025 23:37:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 157,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Boyer671",
+    "taskLink": "https://tiktok.com/nostrud",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat Sep 20 2025 03:56:37 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 158,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Sofia348",
+    "taskLink": "https://instagram.com/incididunt",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Tue Aug 26 2025 01:50:02 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 159,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Leon622",
+    "taskLink": "https://facebook.com/incididunt",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Tue Apr 08 2025 00:07:31 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 160,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Jones123",
+    "taskLink": "https://instagram.com/aliqua",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Fri Mar 14 2025 23:38:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 161,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Antonia455",
+    "taskLink": "https://facebook.com/excepteur",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Mon May 05 2025 01:40:55 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 162,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Betty969",
+    "taskLink": "https://facebook.com/laboris",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Wed May 07 2025 14:02:05 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 163,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Hardy736",
+    "taskLink": "https://facebook.com/magna",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Fri Sep 19 2025 22:10:52 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 164,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Montgomery189",
+    "taskLink": "https://tiktok.com/proident",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Wed Sep 17 2025 17:04:24 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 165,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Hoffman424",
+    "taskLink": "https://twitter.com/ipsum",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Thu Feb 27 2025 16:46:19 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 166,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Ila160",
+    "taskLink": "https://tiktok.com/ullamco",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Thu Mar 13 2025 20:05:28 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 167,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Brewer656",
+    "taskLink": "https://instagram.com/do",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Tue Sep 30 2025 17:18:46 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 168,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Bertha217",
+    "taskLink": "https://twitter.com/reprehenderit",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Thu May 08 2025 07:06:58 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 169,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Ericka244",
+    "taskLink": "https://tiktok.com/consectetur",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Sun Jul 13 2025 09:58:04 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 170,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Tillman640",
+    "taskLink": "https://twitter.com/enim",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Wed Sep 03 2025 19:04:15 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 171,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Rowland131",
+    "taskLink": "https://tiktok.com/do",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Thu Oct 09 2025 21:04:43 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 172,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Baker16",
+    "taskLink": "https://instagram.com/commodo",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Mon Nov 03 2025 06:54:51 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 173,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Wendy673",
+    "taskLink": "https://tiktok.com/minim",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Mon Oct 06 2025 13:24:54 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 174,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Jordan403",
+    "taskLink": "https://twitter.com/proident",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Sun Mar 23 2025 23:12:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 175,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Chelsea260",
+    "taskLink": "https://twitter.com/ut",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Wed Jan 22 2025 17:34:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 176,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Debbie867",
+    "taskLink": "https://twitter.com/ut",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Tue Feb 11 2025 09:57:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 177,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Dianne962",
+    "taskLink": "https://facebook.com/pariatur",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Thu Feb 20 2025 05:24:04 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 178,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Roslyn13",
+    "taskLink": "https://instagram.com/reprehenderit",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Tue Jan 07 2025 02:52:21 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 179,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Boyle289",
+    "taskLink": "https://tiktok.com/dolor",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Sat Nov 08 2025 08:44:08 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 180,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Mcintosh359",
+    "taskLink": "https://twitter.com/qui",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Sun Jun 01 2025 12:16:47 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 181,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Wilkins239",
+    "taskLink": "https://tiktok.com/officia",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Wed Feb 12 2025 10:19:56 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 182,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Carney729",
+    "taskLink": "https://instagram.com/minim",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Thu Sep 18 2025 19:13:59 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 183,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Chavez258",
+    "taskLink": "https://twitter.com/consectetur",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Wed Dec 03 2025 04:55:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 184,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Cross572",
+    "taskLink": "https://twitter.com/id",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Tue Mar 25 2025 16:22:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 185,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Duke453",
+    "taskLink": "https://tiktok.com/elit",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Thu Oct 02 2025 10:14:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 186,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Lavonne874",
+    "taskLink": "https://facebook.com/laboris",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat May 31 2025 19:57:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 187,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Estella283",
+    "taskLink": "https://twitter.com/cupidatat",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Wed Aug 27 2025 06:34:58 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 188,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Merritt84",
+    "taskLink": "https://facebook.com/velit",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Wed Feb 05 2025 20:44:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 189,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Workman299",
+    "taskLink": "https://twitter.com/quis",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Wed Jun 11 2025 04:35:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 190,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Dianna102",
+    "taskLink": "https://tiktok.com/excepteur",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Sun May 11 2025 23:08:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 191,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Cline183",
+    "taskLink": "https://instagram.com/cillum",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Fri Sep 19 2025 02:48:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 192,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Bentley112",
+    "taskLink": "https://instagram.com/consequat",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Wed Oct 01 2025 18:19:11 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 193,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Angelique50",
+    "taskLink": "https://twitter.com/deserunt",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Tue Mar 18 2025 11:18:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 194,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Lisa68",
+    "taskLink": "https://twitter.com/voluptate",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Sat Nov 08 2025 19:08:02 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 195,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Stacy239",
+    "taskLink": "https://twitter.com/irure",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Sun Apr 13 2025 07:29:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 196,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Rosanna64",
+    "taskLink": "https://instagram.com/ut",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Mon Nov 17 2025 09:18:52 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 197,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Teresa499",
+    "taskLink": "https://twitter.com/qui",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Tue Nov 25 2025 04:14:28 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 198,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Garner66",
+    "taskLink": "https://twitter.com/quis",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Sat Sep 06 2025 05:31:17 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 199,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Franco840",
+    "taskLink": "https://twitter.com/ad",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Sat Mar 22 2025 13:53:04 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 200,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Goldie148",
+    "taskLink": "https://facebook.com/aute",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Thu Jan 09 2025 20:40:57 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 201,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Barrett341",
+    "taskLink": "https://facebook.com/qui",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Mon Mar 31 2025 08:19:55 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 202,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Courtney174",
+    "taskLink": "https://twitter.com/ex",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Thu Jun 26 2025 17:51:31 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 203,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Hopper236",
+    "taskLink": "https://facebook.com/labore",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Thu Jan 16 2025 03:11:38 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 204,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Jill262",
+    "taskLink": "https://twitter.com/pariatur",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Sat May 03 2025 01:46:56 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 205,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Mai87",
+    "taskLink": "https://twitter.com/excepteur",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Tue May 13 2025 12:35:35 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 206,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Beryl438",
+    "taskLink": "https://twitter.com/aliqua",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Fri Apr 18 2025 02:56:38 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 207,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Cole426",
+    "taskLink": "https://tiktok.com/consequat",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Thu May 08 2025 04:58:52 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 208,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Mcbride759",
+    "taskLink": "https://instagram.com/commodo",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Tue May 20 2025 18:24:31 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 209,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Kris300",
+    "taskLink": "https://instagram.com/irure",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Sun Feb 02 2025 01:21:28 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 210,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Stella885",
+    "taskLink": "https://twitter.com/aliquip",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Fri May 30 2025 04:56:27 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 211,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Romero574",
+    "taskLink": "https://twitter.com/occaecat",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Tue Jun 10 2025 08:16:38 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 212,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Genevieve944",
+    "taskLink": "https://instagram.com/est",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Mon Apr 14 2025 19:49:34 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 213,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Rodgers12",
+    "taskLink": "https://instagram.com/nulla",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Fri Apr 18 2025 15:32:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 214,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Luz172",
+    "taskLink": "https://instagram.com/et",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Mon Sep 15 2025 04:16:32 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 215,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Eileen510",
+    "taskLink": "https://facebook.com/adipisicing",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Fri Aug 22 2025 02:10:21 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 216,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Francis501",
+    "taskLink": "https://twitter.com/non",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Sat Oct 11 2025 19:30:41 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 217,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Janine852",
+    "taskLink": "https://instagram.com/officia",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Thu Apr 17 2025 02:19:27 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 218,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Mary751",
+    "taskLink": "https://tiktok.com/commodo",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Thu Feb 06 2025 23:19:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 219,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Medina898",
+    "taskLink": "https://twitter.com/dolore",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Sat Jun 07 2025 05:12:56 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 220,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Tessa62",
+    "taskLink": "https://facebook.com/id",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Mon May 12 2025 00:09:03 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 221,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Kathryn952",
+    "taskLink": "https://tiktok.com/pariatur",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Fri Sep 26 2025 09:05:21 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 222,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "May223",
+    "taskLink": "https://instagram.com/exercitation",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Tue Sep 16 2025 12:21:19 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 223,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Justine421",
+    "taskLink": "https://facebook.com/sint",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Tue Aug 19 2025 16:55:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 224,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Lamb164",
+    "taskLink": "https://twitter.com/eu",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat Jun 28 2025 15:43:19 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 225,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Luann352",
+    "taskLink": "https://twitter.com/commodo",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Sun Aug 10 2025 21:12:31 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 226,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Claudine71",
+    "taskLink": "https://twitter.com/irure",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Sat Apr 12 2025 16:40:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 227,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Colleen450",
+    "taskLink": "https://facebook.com/in",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Wed Apr 16 2025 14:28:41 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 228,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Leigh468",
+    "taskLink": "https://facebook.com/dolore",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Sun Oct 12 2025 19:33:06 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 229,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Donaldson967",
+    "taskLink": "https://tiktok.com/et",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Wed Sep 24 2025 15:03:57 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 230,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Rachel23",
+    "taskLink": "https://instagram.com/occaecat",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Fri May 30 2025 17:26:26 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 231,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Mariana295",
+    "taskLink": "https://facebook.com/sit",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat Mar 01 2025 15:25:06 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 232,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Margie908",
+    "taskLink": "https://tiktok.com/dolor",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Mon Aug 04 2025 11:16:11 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 233,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Eve563",
+    "taskLink": "https://twitter.com/consectetur",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Tue Jul 01 2025 12:39:01 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 234,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Estelle103",
+    "taskLink": "https://instagram.com/laborum",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Thu Nov 27 2025 10:12:15 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 235,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Ford595",
+    "taskLink": "https://instagram.com/sint",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Tue Sep 09 2025 17:20:56 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 236,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Priscilla547",
+    "taskLink": "https://instagram.com/in",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Fri Nov 07 2025 08:55:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 237,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Jennie20",
+    "taskLink": "https://facebook.com/nisi",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat Aug 23 2025 08:31:34 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 238,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Day878",
+    "taskLink": "https://tiktok.com/pariatur",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Wed Jan 08 2025 09:16:04 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 239,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Madelyn598",
+    "taskLink": "https://instagram.com/ea",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Fri Apr 25 2025 16:46:32 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 240,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Richards442",
+    "taskLink": "https://twitter.com/sit",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Sun Feb 23 2025 15:02:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 241,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Vega470",
+    "taskLink": "https://tiktok.com/qui",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Fri Nov 28 2025 13:55:30 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 242,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Trevino510",
+    "taskLink": "https://facebook.com/magna",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Thu May 08 2025 19:01:03 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 243,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Cochran365",
+    "taskLink": "https://twitter.com/pariatur",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Sat Oct 04 2025 18:41:09 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 244,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Frederick262",
+    "taskLink": "https://facebook.com/pariatur",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Thu Jul 03 2025 20:15:19 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 245,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Silva874",
+    "taskLink": "https://tiktok.com/commodo",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Fri Aug 08 2025 23:34:42 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 246,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Neva84",
+    "taskLink": "https://facebook.com/Lorem",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Sat Oct 11 2025 08:15:15 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 247,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Roth160",
+    "taskLink": "https://facebook.com/ullamco",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Thu Apr 10 2025 02:05:03 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 248,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Cara920",
+    "taskLink": "https://tiktok.com/sunt",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Wed Jul 23 2025 20:39:57 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 249,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Soto572",
+    "taskLink": "https://twitter.com/nostrud",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Tue Nov 04 2025 15:30:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 250,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Young210",
+    "taskLink": "https://tiktok.com/tempor",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Wed Nov 05 2025 04:46:21 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 251,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Santos892",
+    "taskLink": "https://tiktok.com/in",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Fri Jan 31 2025 22:56:53 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 252,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Quinn601",
+    "taskLink": "https://tiktok.com/sunt",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Mon Dec 08 2025 05:20:37 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 253,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Blankenship435",
+    "taskLink": "https://instagram.com/magna",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Sun Oct 05 2025 06:20:59 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 254,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Beatrice872",
+    "taskLink": "https://facebook.com/nostrud",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Thu Sep 25 2025 09:36:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 255,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Nunez61",
+    "taskLink": "https://facebook.com/esse",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Thu Oct 16 2025 07:31:54 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 256,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Bradley783",
+    "taskLink": "https://twitter.com/velit",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Sat May 17 2025 15:23:11 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 257,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Stefanie682",
+    "taskLink": "https://tiktok.com/occaecat",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Wed Oct 15 2025 00:47:04 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 258,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Celina544",
+    "taskLink": "https://instagram.com/proident",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Sat Aug 23 2025 22:30:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 259,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Lauren95",
+    "taskLink": "https://twitter.com/ipsum",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Sun Feb 23 2025 11:17:25 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 260,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Frazier765",
+    "taskLink": "https://facebook.com/dolor",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Mon May 19 2025 02:05:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 261,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Norma130",
+    "taskLink": "https://instagram.com/et",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Sat Mar 22 2025 05:19:49 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 262,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Lucinda439",
+    "taskLink": "https://instagram.com/quis",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Sun Oct 12 2025 02:56:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 263,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Leann935",
+    "taskLink": "https://tiktok.com/ex",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Fri Jan 10 2025 01:41:25 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 264,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Macdonald265",
+    "taskLink": "https://facebook.com/cupidatat",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Thu Nov 13 2025 00:06:06 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 265,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Lindsey867",
+    "taskLink": "https://twitter.com/commodo",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Wed Jan 22 2025 09:37:06 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 266,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Newton514",
+    "taskLink": "https://tiktok.com/velit",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Sat Feb 22 2025 09:37:51 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 267,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Greer578",
+    "taskLink": "https://facebook.com/eu",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Mon Sep 15 2025 12:35:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 268,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Tanner640",
+    "taskLink": "https://facebook.com/reprehenderit",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Tue Aug 26 2025 10:37:52 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 269,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Parsons313",
+    "taskLink": "https://tiktok.com/sunt",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Sun Nov 30 2025 19:17:24 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 270,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Meghan265",
+    "taskLink": "https://tiktok.com/reprehenderit",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Fri Apr 18 2025 16:34:49 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 271,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Allison374",
+    "taskLink": "https://facebook.com/irure",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Fri Mar 21 2025 03:45:01 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 272,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Kay936",
+    "taskLink": "https://twitter.com/culpa",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Sat Feb 22 2025 08:49:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 273,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Riley17",
+    "taskLink": "https://tiktok.com/laboris",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Tue Apr 29 2025 05:15:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 274,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Norton124",
+    "taskLink": "https://instagram.com/proident",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Wed Oct 29 2025 15:47:16 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 275,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Rachael760",
+    "taskLink": "https://tiktok.com/aliqua",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Wed Jan 22 2025 16:25:35 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 276,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Lesa890",
+    "taskLink": "https://instagram.com/cillum",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Sun Apr 13 2025 09:33:32 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 277,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "May495",
+    "taskLink": "https://facebook.com/sunt",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Sat May 10 2025 00:26:02 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 278,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Mccray799",
+    "taskLink": "https://twitter.com/ipsum",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Fri Feb 07 2025 11:14:54 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 279,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Lee44",
+    "taskLink": "https://facebook.com/ullamco",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Fri Jan 24 2025 23:27:42 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 280,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Maynard623",
+    "taskLink": "https://instagram.com/exercitation",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Fri Jun 27 2025 18:39:32 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 281,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Jackson836",
+    "taskLink": "https://twitter.com/esse",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Sun Jul 20 2025 08:39:19 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 282,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Kathie440",
+    "taskLink": "https://facebook.com/est",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Sun Oct 05 2025 13:48:53 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 283,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Myrna120",
+    "taskLink": "https://tiktok.com/ad",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Sat Jun 14 2025 14:13:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 284,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Lucile763",
+    "taskLink": "https://twitter.com/occaecat",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Thu Oct 09 2025 02:12:42 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 285,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Mendoza939",
+    "taskLink": "https://twitter.com/magna",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Fri Jan 17 2025 13:19:39 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 286,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Jeanette419",
+    "taskLink": "https://instagram.com/tempor",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Mon May 12 2025 01:08:03 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 287,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Ophelia174",
+    "taskLink": "https://twitter.com/non",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Wed Apr 30 2025 10:53:09 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 288,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Merle477",
+    "taskLink": "https://instagram.com/ut",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Sat Dec 13 2025 22:04:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 289,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Patel843",
+    "taskLink": "https://tiktok.com/cillum",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Tue May 13 2025 20:56:05 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 290,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Audrey680",
+    "taskLink": "https://tiktok.com/occaecat",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Fri Jul 11 2025 01:38:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 291,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Nielsen317",
+    "taskLink": "https://tiktok.com/veniam",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Sat Jun 28 2025 09:07:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 292,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Rhodes887",
+    "taskLink": "https://tiktok.com/in",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Fri Jun 27 2025 06:15:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 293,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Barnes240",
+    "taskLink": "https://twitter.com/cupidatat",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Fri Nov 21 2025 00:00:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 294,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Erma71",
+    "taskLink": "https://facebook.com/consequat",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Fri Jan 10 2025 22:15:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 295,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Carroll814",
+    "taskLink": "https://twitter.com/reprehenderit",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Fri Aug 08 2025 09:51:38 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 296,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Mitchell743",
+    "taskLink": "https://instagram.com/aute",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Fri Jan 17 2025 07:16:01 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 297,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Dorthy727",
+    "taskLink": "https://facebook.com/consectetur",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Sun Jul 20 2025 18:00:32 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 298,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Warren299",
+    "taskLink": "https://twitter.com/veniam",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Mon May 26 2025 08:16:57 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 299,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Peterson377",
+    "taskLink": "https://tiktok.com/officia",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Wed Oct 15 2025 22:32:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 300,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Flores141",
+    "taskLink": "https://facebook.com/id",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Sun Mar 23 2025 17:35:55 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 301,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Lawrence235",
+    "taskLink": "https://facebook.com/voluptate",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Fri Mar 21 2025 08:00:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 302,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Aisha512",
+    "taskLink": "https://tiktok.com/cupidatat",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Tue Jan 28 2025 15:46:49 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 303,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Aguirre213",
+    "taskLink": "https://instagram.com/anim",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Wed Oct 08 2025 04:17:01 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 304,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Miranda266",
+    "taskLink": "https://instagram.com/anim",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Sat Oct 25 2025 16:12:35 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 305,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Heidi745",
+    "taskLink": "https://instagram.com/ea",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Fri Nov 07 2025 01:14:22 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 306,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Sanford898",
+    "taskLink": "https://tiktok.com/reprehenderit",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Fri Jun 27 2025 00:34:08 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 307,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Janice232",
+    "taskLink": "https://instagram.com/veniam",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Mon Apr 14 2025 02:52:57 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 308,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "England382",
+    "taskLink": "https://facebook.com/eu",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Thu Dec 11 2025 10:16:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 309,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Spencer784",
+    "taskLink": "https://instagram.com/reprehenderit",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Mon Sep 15 2025 20:57:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 310,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Barber281",
+    "taskLink": "https://twitter.com/qui",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Mon Apr 07 2025 03:43:57 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 311,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Leanne835",
+    "taskLink": "https://facebook.com/excepteur",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Wed Apr 16 2025 19:18:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 312,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Santiago971",
+    "taskLink": "https://facebook.com/irure",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Wed Apr 02 2025 03:37:10 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 313,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Kenya857",
+    "taskLink": "https://twitter.com/excepteur",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Fri Feb 14 2025 19:11:56 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 314,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Buchanan342",
+    "taskLink": "https://twitter.com/sit",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Thu Sep 25 2025 06:13:49 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 315,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Ladonna979",
+    "taskLink": "https://twitter.com/tempor",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Wed Jan 01 2025 01:27:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 316,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Meadows421",
+    "taskLink": "https://tiktok.com/ipsum",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Mon Dec 01 2025 10:49:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 317,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Everett666",
+    "taskLink": "https://twitter.com/laboris",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Mon Sep 29 2025 08:12:00 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 318,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Moses11",
+    "taskLink": "https://tiktok.com/minim",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Sun Jan 19 2025 22:54:06 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 319,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Rosario359",
+    "taskLink": "https://tiktok.com/ex",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Wed Jan 01 2025 02:40:08 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 320,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Ada906",
+    "taskLink": "https://instagram.com/consectetur",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Tue Dec 16 2025 23:14:17 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 321,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Suzanne679",
+    "taskLink": "https://facebook.com/deserunt",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Fri May 23 2025 08:38:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 322,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Darla95",
+    "taskLink": "https://tiktok.com/magna",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Thu Dec 11 2025 20:53:46 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 323,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Shawn579",
+    "taskLink": "https://instagram.com/minim",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Fri Jan 10 2025 02:47:49 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 324,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Horton514",
+    "taskLink": "https://tiktok.com/ea",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Sun Jul 06 2025 08:42:25 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 325,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Vicki623",
+    "taskLink": "https://facebook.com/aute",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Fri Sep 19 2025 03:28:26 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 326,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Jerri570",
+    "taskLink": "https://instagram.com/aute",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Fri May 02 2025 00:30:05 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 327,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Eleanor879",
+    "taskLink": "https://tiktok.com/duis",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Sat Sep 06 2025 09:44:17 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 328,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Beard322",
+    "taskLink": "https://instagram.com/incididunt",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Thu Nov 13 2025 21:56:55 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 329,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Laurie54",
+    "taskLink": "https://facebook.com/officia",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Tue Apr 15 2025 10:33:15 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 330,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Amelia54",
+    "taskLink": "https://instagram.com/mollit",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Tue Jul 15 2025 06:01:37 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 331,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Amanda433",
+    "taskLink": "https://tiktok.com/labore",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Mon Jul 21 2025 11:40:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 332,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Delacruz177",
+    "taskLink": "https://facebook.com/laborum",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Fri Jun 20 2025 04:11:20 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 333,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Holmes212",
+    "taskLink": "https://twitter.com/nulla",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Thu Sep 04 2025 03:06:32 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 334,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Loraine219",
+    "taskLink": "https://tiktok.com/ad",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Thu Apr 24 2025 08:36:27 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 335,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Hendrix629",
+    "taskLink": "https://twitter.com/qui",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Sun Oct 05 2025 15:28:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 336,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Ellis260",
+    "taskLink": "https://twitter.com/nisi",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Wed Jul 02 2025 20:47:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 337,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Bartlett604",
+    "taskLink": "https://facebook.com/duis",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Tue Jun 17 2025 21:42:27 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 338,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Irma762",
+    "taskLink": "https://tiktok.com/exercitation",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Thu Apr 10 2025 03:19:57 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 339,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Porter603",
+    "taskLink": "https://tiktok.com/voluptate",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Sat Sep 27 2025 03:56:53 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 340,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Haley301",
+    "taskLink": "https://facebook.com/sunt",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Sat Apr 19 2025 12:44:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 341,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Peters835",
+    "taskLink": "https://facebook.com/cupidatat",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Tue Oct 14 2025 01:46:19 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 342,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Pace118",
+    "taskLink": "https://facebook.com/est",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Thu Sep 18 2025 15:05:49 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 343,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Gayle117",
+    "taskLink": "https://twitter.com/et",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Fri Apr 25 2025 13:22:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 344,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Madeleine967",
+    "taskLink": "https://tiktok.com/voluptate",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Thu Jan 09 2025 15:00:09 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 345,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Mcintyre49",
+    "taskLink": "https://instagram.com/non",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Mon Oct 20 2025 04:12:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 346,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Caitlin887",
+    "taskLink": "https://facebook.com/deserunt",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Sun Mar 23 2025 11:53:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 347,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Estes823",
+    "taskLink": "https://tiktok.com/nostrud",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Tue Feb 04 2025 08:50:17 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 348,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Harrison566",
+    "taskLink": "https://twitter.com/velit",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Wed Sep 17 2025 22:38:06 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 349,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Petty549",
+    "taskLink": "https://facebook.com/sint",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Thu Apr 17 2025 05:54:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 350,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Hamilton506",
+    "taskLink": "https://facebook.com/amet",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Wed Jun 04 2025 02:33:11 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 351,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Candice31",
+    "taskLink": "https://tiktok.com/amet",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Tue May 20 2025 13:30:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 352,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Clemons501",
+    "taskLink": "https://facebook.com/do",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Mon Feb 24 2025 16:18:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 353,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Collier602",
+    "taskLink": "https://instagram.com/ea",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Wed Apr 02 2025 23:51:11 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 354,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Davidson888",
+    "taskLink": "https://tiktok.com/officia",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Sun Sep 28 2025 18:14:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 355,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Avila186",
+    "taskLink": "https://instagram.com/amet",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Wed Oct 08 2025 04:46:38 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 356,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Guy79",
+    "taskLink": "https://instagram.com/sint",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Fri Aug 01 2025 08:18:47 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 357,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Joann831",
+    "taskLink": "https://tiktok.com/labore",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Sat Feb 15 2025 19:52:46 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 358,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Gretchen762",
+    "taskLink": "https://twitter.com/consectetur",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Wed Aug 06 2025 16:46:24 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 359,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Nash515",
+    "taskLink": "https://tiktok.com/nulla",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Sat Sep 20 2025 15:53:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 360,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Yvonne134",
+    "taskLink": "https://tiktok.com/Lorem",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Tue Mar 04 2025 11:18:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 361,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Lelia347",
+    "taskLink": "https://facebook.com/amet",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Fri Jul 11 2025 04:34:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 362,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Emilia898",
+    "taskLink": "https://facebook.com/mollit",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Thu Feb 20 2025 20:07:58 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 363,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Earline471",
+    "taskLink": "https://twitter.com/magna",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Thu Sep 18 2025 22:53:08 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 364,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Rosario765",
+    "taskLink": "https://tiktok.com/deserunt",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Mon Feb 10 2025 13:14:55 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 365,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Holman748",
+    "taskLink": "https://tiktok.com/commodo",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Mon Jun 30 2025 00:12:15 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 366,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Marquez854",
+    "taskLink": "https://twitter.com/veniam",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Wed Jul 02 2025 19:54:54 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 367,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Snider205",
+    "taskLink": "https://instagram.com/fugiat",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Wed Jun 04 2025 18:47:30 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 368,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Hanson911",
+    "taskLink": "https://facebook.com/mollit",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Sun Apr 20 2025 05:47:08 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 369,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Lawson995",
+    "taskLink": "https://tiktok.com/occaecat",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Mon Mar 17 2025 06:41:28 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 370,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Sellers868",
+    "taskLink": "https://twitter.com/amet",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Tue Jul 29 2025 11:21:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 371,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Tanisha794",
+    "taskLink": "https://twitter.com/pariatur",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Fri Dec 12 2025 07:07:52 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 372,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Marie184",
+    "taskLink": "https://instagram.com/in",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Sun Sep 14 2025 20:07:46 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 373,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Nixon717",
+    "taskLink": "https://instagram.com/occaecat",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Sat Dec 06 2025 05:50:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 374,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Rebecca345",
+    "taskLink": "https://facebook.com/proident",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Fri Sep 05 2025 04:06:03 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 375,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Owens945",
+    "taskLink": "https://tiktok.com/commodo",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Fri Jun 13 2025 23:10:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 376,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Nadine733",
+    "taskLink": "https://tiktok.com/sunt",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Tue Nov 11 2025 11:35:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 377,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Dillard936",
+    "taskLink": "https://instagram.com/ut",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Sat Jun 28 2025 21:39:27 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 378,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Mamie602",
+    "taskLink": "https://tiktok.com/irure",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Wed Apr 02 2025 21:53:47 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 379,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Cleo64",
+    "taskLink": "https://twitter.com/est",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat Jan 25 2025 03:49:20 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 380,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Sandoval393",
+    "taskLink": "https://instagram.com/sit",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Tue Feb 11 2025 11:20:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 381,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Adela589",
+    "taskLink": "https://facebook.com/est",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Tue Sep 23 2025 23:31:02 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 382,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Deleon377",
+    "taskLink": "https://tiktok.com/consectetur",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Tue Jun 10 2025 10:43:45 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 383,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Lorene643",
+    "taskLink": "https://twitter.com/proident",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Thu Oct 23 2025 21:25:05 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 384,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Agnes123",
+    "taskLink": "https://facebook.com/aliquip",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Wed Apr 23 2025 10:47:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 385,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Ochoa255",
+    "taskLink": "https://instagram.com/minim",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Fri Jun 13 2025 03:28:49 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 386,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Lopez744",
+    "taskLink": "https://instagram.com/commodo",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Wed Jan 22 2025 07:38:15 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 387,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Cathleen886",
+    "taskLink": "https://instagram.com/adipisicing",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Sun Oct 05 2025 19:15:34 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 388,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Christy978",
+    "taskLink": "https://facebook.com/nulla",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Wed Nov 26 2025 20:47:10 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 389,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Susana493",
+    "taskLink": "https://tiktok.com/officia",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Thu Dec 11 2025 02:39:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 390,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Cecilia133",
+    "taskLink": "https://instagram.com/do",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Sat Jun 28 2025 16:44:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 391,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Cleveland346",
+    "taskLink": "https://twitter.com/do",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Thu Jun 05 2025 16:15:55 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 392,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Singleton524",
+    "taskLink": "https://twitter.com/ad",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sat Dec 13 2025 23:22:13 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 393,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Dejesus192",
+    "taskLink": "https://instagram.com/nulla",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Tue May 20 2025 06:49:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 394,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Lyons991",
+    "taskLink": "https://instagram.com/nulla",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Fri Oct 24 2025 18:17:47 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 395,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Howe460",
+    "taskLink": "https://twitter.com/mollit",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Mon Feb 10 2025 02:00:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 396,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Bonnie88",
+    "taskLink": "https://facebook.com/deserunt",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Wed May 14 2025 19:56:59 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 397,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Viola278",
+    "taskLink": "https://twitter.com/ipsum",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Sat May 24 2025 17:39:45 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 398,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Susie114",
+    "taskLink": "https://tiktok.com/ad",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Sun Mar 30 2025 14:04:58 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 399,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Geraldine182",
+    "taskLink": "https://tiktok.com/occaecat",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Mon Jan 27 2025 11:58:56 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 400,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Frye240",
+    "taskLink": "https://twitter.com/culpa",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Tue Aug 12 2025 10:43:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 401,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Bessie410",
+    "taskLink": "https://instagram.com/qui",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Sun May 18 2025 04:39:28 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 402,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Pratt483",
+    "taskLink": "https://tiktok.com/est",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Mon Nov 24 2025 12:57:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 403,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Bolton265",
+    "taskLink": "https://tiktok.com/esse",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Thu Jan 16 2025 17:20:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 404,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Lambert312",
+    "taskLink": "https://tiktok.com/occaecat",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Wed Aug 06 2025 12:37:17 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 405,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "West445",
+    "taskLink": "https://facebook.com/proident",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Fri Jun 13 2025 09:57:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 406,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Tracey960",
+    "taskLink": "https://instagram.com/veniam",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Fri Sep 05 2025 08:24:04 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 407,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Pamela797",
+    "taskLink": "https://facebook.com/magna",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Wed Feb 26 2025 10:35:05 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 408,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Briggs210",
+    "taskLink": "https://tiktok.com/aliquip",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Wed Mar 12 2025 01:12:10 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 409,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Bethany668",
+    "taskLink": "https://facebook.com/aliqua",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Sun Mar 09 2025 04:21:04 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 410,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Ball338",
+    "taskLink": "https://twitter.com/consectetur",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Tue Jun 10 2025 21:42:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 411,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Abigail970",
+    "taskLink": "https://facebook.com/consectetur",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Sat Jun 14 2025 08:34:59 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 412,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Deena633",
+    "taskLink": "https://instagram.com/Lorem",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Mon Jun 16 2025 09:19:37 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 413,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Bridgette255",
+    "taskLink": "https://tiktok.com/ea",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Thu Jun 05 2025 08:07:22 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 414,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Gill938",
+    "taskLink": "https://tiktok.com/dolor",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Wed Jun 04 2025 21:55:13 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 415,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Mcneil998",
+    "taskLink": "https://facebook.com/aute",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Wed Nov 19 2025 09:29:11 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 416,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Madden555",
+    "taskLink": "https://twitter.com/labore",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Sun Jun 22 2025 23:25:17 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 417,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Gould526",
+    "taskLink": "https://tiktok.com/esse",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Fri Aug 01 2025 03:07:20 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 418,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Marlene832",
+    "taskLink": "https://facebook.com/qui",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Wed Feb 05 2025 13:29:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 419,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Church742",
+    "taskLink": "https://tiktok.com/velit",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Fri Feb 07 2025 03:05:35 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 420,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Brown620",
+    "taskLink": "https://twitter.com/voluptate",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Sun May 11 2025 19:19:35 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 421,
+    "platform": "TikTok",
+    "taskType": "Share",
+    "targetUsername": "Erickson108",
+    "taskLink": "https://instagram.com/sunt",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Fri Jun 27 2025 18:40:38 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 422,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Hickman915",
+    "taskLink": "https://tiktok.com/id",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Tue Mar 25 2025 01:41:37 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 423,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Benton586",
+    "taskLink": "https://tiktok.com/minim",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Sun Nov 23 2025 09:50:16 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 424,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Harding46",
+    "taskLink": "https://twitter.com/dolore",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Fri May 09 2025 06:25:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 425,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Tricia277",
+    "taskLink": "https://tiktok.com/sint",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Wed May 28 2025 14:21:09 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 426,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Carey407",
+    "taskLink": "https://twitter.com/esse",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Thu Oct 23 2025 16:42:26 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 427,
+    "platform": "WhatsApp",
+    "taskType": "Follow",
+    "targetUsername": "Inez853",
+    "taskLink": "https://facebook.com/voluptate",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Wed Jul 16 2025 15:55:31 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 428,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Ashley798",
+    "taskLink": "https://facebook.com/ut",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Mon Jul 07 2025 10:50:42 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 429,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Kari116",
+    "taskLink": "https://twitter.com/non",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Sun May 11 2025 12:58:56 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 430,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Carissa602",
+    "taskLink": "https://instagram.com/anim",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Fri Aug 08 2025 22:41:58 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 431,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Janis847",
+    "taskLink": "https://instagram.com/veniam",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Fri Nov 07 2025 23:00:08 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 432,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Barbra740",
+    "taskLink": "https://facebook.com/nostrud",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Sun Jul 20 2025 23:00:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 433,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Duncan140",
+    "taskLink": "https://facebook.com/irure",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Fri May 02 2025 17:12:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 434,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Banks507",
+    "taskLink": "https://twitter.com/commodo",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Sun Jul 27 2025 09:11:09 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 435,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Leanna746",
+    "taskLink": "https://facebook.com/nulla",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Sat Feb 22 2025 15:53:28 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 436,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Twila159",
+    "taskLink": "https://instagram.com/cillum",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Sun May 04 2025 15:46:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 437,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Shaw974",
+    "taskLink": "https://instagram.com/fugiat",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Wed Jul 16 2025 00:39:01 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 438,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Olive811",
+    "taskLink": "https://tiktok.com/do",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Sun Jan 12 2025 11:35:21 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 439,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Fisher210",
+    "taskLink": "https://twitter.com/esse",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Tue Jan 21 2025 17:53:26 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 440,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Florence569",
+    "taskLink": "https://tiktok.com/eiusmod",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Fri Oct 03 2025 08:51:35 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 441,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Letha824",
+    "taskLink": "https://twitter.com/officia",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Tue Jul 01 2025 07:10:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 442,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Kramer578",
+    "taskLink": "https://facebook.com/est",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Tue Jul 08 2025 01:33:11 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 443,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Herman897",
+    "taskLink": "https://tiktok.com/sint",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Mon Dec 08 2025 20:51:15 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 444,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Suarez143",
+    "taskLink": "https://tiktok.com/qui",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Sat Nov 22 2025 07:18:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 445,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Corina468",
+    "taskLink": "https://instagram.com/id",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Fri Jun 20 2025 14:14:43 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 446,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Hughes471",
+    "taskLink": "https://tiktok.com/quis",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Wed Jul 09 2025 03:59:47 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 447,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Karin369",
+    "taskLink": "https://twitter.com/occaecat",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Sat Aug 30 2025 12:41:22 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 448,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Dickerson525",
+    "taskLink": "https://instagram.com/minim",
+    "reward": 3,
+    "status": "available",
+    "createdAt": "Tue Apr 01 2025 09:56:26 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 449,
+    "platform": "Instagram",
+    "taskType": "Follow",
+    "targetUsername": "Emily572",
+    "taskLink": "https://twitter.com/culpa",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Fri Oct 24 2025 17:24:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 450,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Mercer383",
+    "taskLink": "https://facebook.com/elit",
+    "reward": 19,
+    "status": "available",
+    "createdAt": "Tue Jun 24 2025 12:25:14 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 451,
+    "platform": "Twitter",
+    "taskType": "Join Group",
+    "targetUsername": "Opal447",
+    "taskLink": "https://instagram.com/voluptate",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Tue Apr 29 2025 08:05:41 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 452,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Alexis455",
+    "taskLink": "https://instagram.com/id",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Sat Oct 04 2025 09:47:28 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 453,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Tracy645",
+    "taskLink": "https://tiktok.com/ut",
+    "reward": 14,
+    "status": "available",
+    "createdAt": "Tue Jul 01 2025 22:52:44 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 454,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Russo310",
+    "taskLink": "https://twitter.com/voluptate",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Thu Aug 07 2025 20:48:51 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 455,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Roman266",
+    "taskLink": "https://facebook.com/mollit",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Fri Jul 18 2025 16:13:56 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 456,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Traci568",
+    "taskLink": "https://tiktok.com/in",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Sat Jun 21 2025 03:31:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 457,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Margaret14",
+    "taskLink": "https://instagram.com/nulla",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Sun Jun 29 2025 09:17:03 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 458,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Mindy23",
+    "taskLink": "https://instagram.com/sunt",
+    "reward": 4,
+    "status": "available",
+    "createdAt": "Mon Nov 03 2025 21:36:27 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 459,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Cooke262",
+    "taskLink": "https://facebook.com/duis",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Tue Jul 22 2025 03:11:12 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 460,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Dalton515",
+    "taskLink": "https://tiktok.com/ea",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Tue Jan 28 2025 20:40:52 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 461,
+    "platform": "TikTok",
+    "taskType": "Follow",
+    "targetUsername": "Love47",
+    "taskLink": "https://twitter.com/sint",
+    "reward": 12,
+    "status": "available",
+    "createdAt": "Thu Oct 23 2025 12:47:01 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 462,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Sykes309",
+    "taskLink": "https://twitter.com/ullamco",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Tue Sep 16 2025 08:03:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 463,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Alisa47",
+    "taskLink": "https://instagram.com/qui",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Sat Aug 30 2025 21:28:47 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 464,
+    "platform": "Instagram",
+    "taskType": "Join Group",
+    "targetUsername": "Leila539",
+    "taskLink": "https://instagram.com/id",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Thu Sep 25 2025 10:55:20 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 465,
+    "platform": "Facebook",
+    "taskType": "Join Group",
+    "targetUsername": "Travis95",
+    "taskLink": "https://instagram.com/sit",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Wed Feb 26 2025 09:51:50 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 466,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Jeannette645",
+    "taskLink": "https://facebook.com/aute",
+    "reward": 7,
+    "status": "available",
+    "createdAt": "Tue Aug 05 2025 19:14:30 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 467,
+    "platform": "WhatsApp",
+    "taskType": "Share",
+    "targetUsername": "Rose275",
+    "taskLink": "https://twitter.com/est",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Sun Mar 09 2025 09:21:39 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 468,
+    "platform": "WhatsApp",
+    "taskType": "Comment",
+    "targetUsername": "Sullivan319",
+    "taskLink": "https://tiktok.com/ex",
+    "reward": 11,
+    "status": "available",
+    "createdAt": "Thu Oct 09 2025 14:05:52 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 469,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Guthrie496",
+    "taskLink": "https://facebook.com/deserunt",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Mon Jul 14 2025 07:01:02 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 470,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Bush96",
+    "taskLink": "https://tiktok.com/duis",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Wed Jun 25 2025 13:01:16 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 471,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "Sadie762",
+    "taskLink": "https://instagram.com/labore",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Tue Jan 21 2025 13:20:04 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 472,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Frank843",
+    "taskLink": "https://tiktok.com/magna",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Thu Jan 09 2025 06:36:28 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 473,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Ines196",
+    "taskLink": "https://twitter.com/occaecat",
+    "reward": 6,
+    "status": "available",
+    "createdAt": "Wed Aug 13 2025 08:56:02 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 474,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Saundra825",
+    "taskLink": "https://facebook.com/duis",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Sat Mar 08 2025 00:53:49 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 475,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Selena627",
+    "taskLink": "https://facebook.com/amet",
+    "reward": 2,
+    "status": "available",
+    "createdAt": "Sun Jun 08 2025 09:52:31 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 476,
+    "platform": "Facebook",
+    "taskType": "Comment",
+    "targetUsername": "Randall20",
+    "taskLink": "https://twitter.com/consequat",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Sun May 04 2025 15:09:19 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 477,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Jacqueline278",
+    "taskLink": "https://twitter.com/laboris",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Sat Oct 11 2025 23:24:51 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 478,
+    "platform": "WhatsApp",
+    "taskType": "Like",
+    "targetUsername": "Mack891",
+    "taskLink": "https://instagram.com/incididunt",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Sun Oct 26 2025 22:53:39 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 479,
+    "platform": "Twitter",
+    "taskType": "Like",
+    "targetUsername": "Consuelo991",
+    "taskLink": "https://twitter.com/pariatur",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Wed May 14 2025 21:07:29 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 480,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Cook509",
+    "taskLink": "https://twitter.com/enim",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Thu Feb 06 2025 17:32:21 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 481,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Virgie397",
+    "taskLink": "https://facebook.com/aute",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Wed May 28 2025 20:39:07 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 482,
+    "platform": "TikTok",
+    "taskType": "Like",
+    "targetUsername": "George899",
+    "taskLink": "https://facebook.com/non",
+    "reward": 15,
+    "status": "available",
+    "createdAt": "Fri Jan 03 2025 03:34:13 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 483,
+    "platform": "WhatsApp",
+    "taskType": "Join Group",
+    "targetUsername": "Kirsten35",
+    "taskLink": "https://facebook.com/do",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Sun Nov 16 2025 19:43:41 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 484,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Allyson776",
+    "taskLink": "https://twitter.com/id",
+    "reward": 18,
+    "status": "available",
+    "createdAt": "Thu Feb 27 2025 13:11:04 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 485,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Elnora793",
+    "taskLink": "https://facebook.com/laboris",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Mon Mar 31 2025 14:40:05 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 486,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Woodard526",
+    "taskLink": "https://twitter.com/deserunt",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Wed Dec 03 2025 14:46:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 487,
+    "platform": "Facebook",
+    "taskType": "Like",
+    "targetUsername": "Leach724",
+    "taskLink": "https://twitter.com/non",
+    "reward": 5,
+    "status": "available",
+    "createdAt": "Wed Apr 16 2025 14:25:06 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 488,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Gilda288",
+    "taskLink": "https://twitter.com/consectetur",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Wed Aug 27 2025 03:05:40 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 489,
+    "platform": "Twitter",
+    "taskType": "Comment",
+    "targetUsername": "Shelly174",
+    "taskLink": "https://facebook.com/non",
+    "reward": 13,
+    "status": "available",
+    "createdAt": "Sat Mar 22 2025 08:39:09 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 490,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Karla30",
+    "taskLink": "https://facebook.com/non",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Sun Mar 16 2025 09:49:18 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 491,
+    "platform": "Instagram",
+    "taskType": "Comment",
+    "targetUsername": "Jodi299",
+    "taskLink": "https://twitter.com/pariatur",
+    "reward": 8,
+    "status": "available",
+    "createdAt": "Sun Sep 28 2025 03:37:13 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 492,
+    "platform": "Facebook",
+    "taskType": "Share",
+    "targetUsername": "Jeannie732",
+    "taskLink": "https://twitter.com/duis",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Sun Jul 06 2025 16:38:23 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 493,
+    "platform": "Twitter",
+    "taskType": "Follow",
+    "targetUsername": "Williamson505",
+    "taskLink": "https://twitter.com/fugiat",
+    "reward": 9,
+    "status": "available",
+    "createdAt": "Mon Oct 27 2025 14:51:19 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 494,
+    "platform": "Twitter",
+    "taskType": "Share",
+    "targetUsername": "Kerri139",
+    "taskLink": "https://facebook.com/magna",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Thu Sep 18 2025 23:00:33 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 495,
+    "platform": "Facebook",
+    "taskType": "Follow",
+    "targetUsername": "Marcia457",
+    "taskLink": "https://instagram.com/incididunt",
+    "reward": 17,
+    "status": "available",
+    "createdAt": "Fri Aug 15 2025 10:14:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 496,
+    "platform": "TikTok",
+    "taskType": "Comment",
+    "targetUsername": "Morris505",
+    "taskLink": "https://tiktok.com/voluptate",
+    "reward": 10,
+    "status": "available",
+    "createdAt": "Fri Dec 05 2025 21:38:36 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 497,
+    "platform": "Instagram",
+    "taskType": "Share",
+    "targetUsername": "Lourdes754",
+    "taskLink": "https://twitter.com/amet",
+    "reward": 20,
+    "status": "available",
+    "createdAt": "Sat Jul 05 2025 22:14:54 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 498,
+    "platform": "Instagram",
+    "taskType": "Like",
+    "targetUsername": "Fay427",
+    "taskLink": "https://tiktok.com/sint",
+    "reward": 1,
+    "status": "available",
+    "createdAt": "Tue Aug 26 2025 03:19:48 GMT+0100 (West Africa Standard Time)"
+  },
+  {
+    "id": 499,
+    "platform": "TikTok",
+    "taskType": "Join Group",
+    "targetUsername": "Kim732",
+    "taskLink": "https://facebook.com/mollit",
+    "reward": 16,
+    "status": "available",
+    "createdAt": "Fri Jun 20 2025 20:42:49 GMT+0100 (West Africa Standard Time)"
+  }
+]
