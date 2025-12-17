@@ -1,0 +1,55 @@
+{
+  "worker": {
+    "id": 1,
+    "name": "Lawrence Graham",
+    "email": "lawrencegraham@elentrix.com",
+    "paid": true
+  },
+  "stats": {
+    "totalSubmissions": 43,
+    "approvedSubmissions": 8,
+    "earnings": 13234
+  },
+  "recentSubmissions": [
+    {
+      "id": 0,
+      "itemName": "Eggs",
+      "category": "Fuel",
+      "price": 7401,
+      "status": "Approved",
+      "createdAt": "Thu Oct 09 2025 00:28:51 GMT+0100 (West Africa Standard Time)"
+    },
+    {
+      "id": 1,
+      "itemName": "Eggs",
+      "category": "Fuel",
+      "price": 3651,
+      "status": "Approved",
+      "createdAt": "Tue Sep 30 2025 18:10:42 GMT+0100 (West Africa Standard Time)"
+    },
+    {
+      "id": 2,
+      "itemName": "Transport",
+      "category": "Fuel",
+      "price": 6759,
+      "status": "Approved",
+      "createdAt": "Thu Jul 10 2025 03:52:21 GMT+0100 (West Africa Standard Time)"
+    },
+    {
+      "id": 3,
+      "itemName": "Eggs",
+      "category": "Fuel",
+      "price": 5142,
+      "status": "Rejected",
+      "createdAt": "Fri Sep 19 2025 10:11:40 GMT+0100 (West Africa Standard Time)"
+    },
+    {
+      "id": 4,
+      "itemName": "Rice",
+      "category": "Food",
+      "price": 3190,
+      "status": "Rejected",
+      "createdAt": "Mon Dec 08 2025 13:45:44 GMT+0100 (West Africa Standard Time)"
+    }
+  ]
+}
