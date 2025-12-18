@@ -1,0 +1,34 @@
+{
+  "submissions": [
+    {
+      "id": 1,
+      "taskType": "Follow TikTok",
+      "platform": "TikTok",
+      "target": "@fly_official",
+      "proof": "https://tiktok.com/@worker123",
+      "status": "approved",
+      "reward": 0.25,
+      "submittedAt": "2025-01-12T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "taskType": "Like Instagram Post",
+      "platform": "Instagram",
+      "target": "@fly_brand",
+      "proof": "https://instagram.com/p/abc123",
+      "status": "pending",
+      "reward": 0.15,
+      "submittedAt": "2025-01-13T14:45:00Z"
+    },
+    {
+      "id": 3,
+      "taskType": "Join WhatsApp Group",
+      "platform": "WhatsApp",
+      "target": "Fly Promo Group",
+      "proof": "Screenshot uploaded",
+      "status": "rejected",
+      "reward": 0.2,
+      "submittedAt": "2025-01-14T09:20:00Z"
+    }
+  ]
+}
