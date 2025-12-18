@@ -1,0 +1,35 @@
+{
+  "referralCode": "FLY-JONAH-01",
+  "totalReferrals": 4,
+  "totalBonus": 3.5,
+  "referrals": [
+    {
+      "id": 1,
+      "username": "worker_anna",
+      "joinedAt": "2025-01-05",
+      "status": "active",
+      "bonusEarned": 1.25
+    },
+    {
+      "id": 2,
+      "username": "worker_mike",
+      "joinedAt": "2025-01-08",
+      "status": "active",
+      "bonusEarned": 1
+    },
+    {
+      "id": 3,
+      "username": "worker_jane",
+      "joinedAt": "2025-01-10",
+      "status": "inactive",
+      "bonusEarned": 0
+    },
+    {
+      "id": 4,
+      "username": "worker_sam",
+      "joinedAt": "2025-01-12",
+      "status": "active",
+      "bonusEarned": 1.25
+    }
+  ]
+}
