@@ -1,0 +1,18 @@
+{
+  "id": 101,
+  "username": "jonah_worker",
+  "email": "jonah@example.com",
+  "country": "Nigeria",
+  "accountStatus": "verified",
+  "joinedAt": "2024-12-20",
+  "wallet": {
+    "balance": 12.75,
+    "withdrawn": 30,
+    "paymentMethod": "Bank Transfer"
+  },
+  "socialAccounts": {
+    "tiktok": "@jonah_tiktok",
+    "instagram": "@jonah_ig",
+    "twitter": "@jonah_x"
+  }
+}
