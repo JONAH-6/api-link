@@ -1,0 +1,46 @@
+{
+  "worker": {
+    "id": 101,
+    "name": "Jonah Worker",
+    "email": "worker@fly.com"
+  },
+  "earnings": {
+    "totalEarned": 1250,
+    "approved": 980,
+    "pending": 220,
+    "rejected": 50,
+    "withdrawn": 600,
+    "availableBalance": 380
+  },
+  "recentEarnings": [
+    {
+      "id": 1,
+      "taskType": "TikTok Follow",
+      "amount": 5,
+      "status": "approved",
+      "date": "2025-01-10T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "taskType": "Instagram Like",
+      "amount": 3,
+      "status": "pending",
+      "date": "2025-01-11T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "taskType": "WhatsApp Join",
+      "amount": 10,
+      "status": "approved",
+      "date": "2025-01-11T16:45:00Z"
+    },
+    {
+      "id": 4,
+      "taskType": "Twitter Follow",
+      "amount": 4,
+      "status": "rejected",
+      "date": "2025-01-12T11:20:00Z"
+    }
+  ],
+  "lastUpdated": "2025-01-12T18:00:00Z"
+}
